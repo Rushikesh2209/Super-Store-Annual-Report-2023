@@ -3,21 +3,26 @@
 Varinda Store wants to create an annual sales report for 2022. So that Varinda can understand its customers and grow more sales in 2023.
 
 ![screenshot1](https://github.com/Rushikesh2209/Super-Store-Annual-Report-2023/blob/main/Vrinda%20Store%20Annual%20Report%202022.png)
-![screenshot1](https://github.com/Rushikesh2209/Super-Store-Annual-Report-2023/blob/main/Sales%20Vs%20Orders.png)
-![screenshot1](https://github.com/Rushikesh2209/Super-Store-Annual-Report-2023/blob/main/Men%20Vs%20Women.png)
-![screenshot1](https://github.com/Rushikesh2209/Super-Store-Annual-Report-2023/blob/main/Order%20Status.png)
-![screenshot1](https://github.com/Rushikesh2209/Super-Store-Annual-Report-2023/blob/main/Sales%20Top%2010%20States.png)
-![screenshot1](https://github.com/Rushikesh2209/Super-Store-Annual-Report-2023/blob/main/Orders%20Age%20Vs%20Gender.png)
-![screenshot1](https://github.com/Rushikesh2209/Super-Store-Annual-Report-2023/blob/main/Orders%20Channel.png)
 
 # Sample Questions
-- Compare the sales and orders using a single chart
+
 - Which month got the highest sales and orders?
+![screenshot1](https://github.com/Rushikesh2209/Super-Store-Annual-Report-2023/blob/main/Sales%20Vs%20Orders.png)
+
 - Who purchased more- men or women in 2022? 
+![screenshot1](https://github.com/Rushikesh2209/Super-Store-Annual-Report-2023/blob/main/Men%20Vs%20Women.png)
+
 - What are the different order status in 2022?
+![screenshot1](https://github.com/Rushikesh2209/Super-Store-Annual-Report-2023/blob/main/Order%20Status.png)
+
 - List the top 10 states contributing to the sales.
+![screenshot1](https://github.com/Rushikesh2209/Super-Store-Annual-Report-2023/blob/main/Sales%20Top%2010%20States.png)
+
 - Relation between age and gender based on number ¢
+![screenshot1](https://github.com/Rushikesh2209/Super-Store-Annual-Report-2023/blob/main/Orders%20Age%20Vs%20Gender.png)
+
 - Which channel is contributing to maximum sales?
+![screenshot1](https://github.com/Rushikesh2209/Super-Store-Annual-Report-2023/blob/main/Orders%20Channel.png)
 
 # Sample Insights
 1) Women are more likely to buy compared to men (~65)
